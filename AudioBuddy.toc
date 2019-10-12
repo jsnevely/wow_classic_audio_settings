@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: AudioBuddy
+## Author: Dissident Dad
+## Version: 0.0.1
+
+main.lua
